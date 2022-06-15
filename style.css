@@ -1,0 +1,19 @@
+
+.main {
+    border: 10px solid red;
+    display: flex;
+  }
+    
+  .main div.left {
+    
+    border-style: solid;
+    border: 5px solid blue;
+    text-align: left;
+    
+  }
+  
+  .main div.right {
+    border-style: solid;
+    border: 5px solid green;
+    text-align: right;
+  }
